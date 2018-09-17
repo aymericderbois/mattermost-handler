@@ -11,6 +11,6 @@ setup(
     url='https://github.com/aymericderbois/py-mattermost-webhooks-log-handler',
     packages=['mattermost_handler'],
     install_requires=[
-        'requests==2.18.2',
+        'requests>=2.18.2',
     ]
 )
