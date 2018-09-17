@@ -4,7 +4,7 @@ from distutils.core import setup
 
 setup(
     name='py-mattermost-webhooks-log-handler',
-    version='1.0.0',
+    version='1.0.1',
     description='A basic log handler for mattermost income url',
     author='Aymeric Derbois',
     author_email='aymeric@derbois.com',
