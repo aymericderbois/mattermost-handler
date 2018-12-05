@@ -1,5 +1,7 @@
 # coding=utf-8
 
+name = "mattermost_handler"
+
 import logging
 import requests
 
