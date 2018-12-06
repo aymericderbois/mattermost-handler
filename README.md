@@ -1,6 +1,11 @@
+# Kezako ?
+
+This library allow you to use mattermost has an handler for your log
+system.
+
 # Installation
 
-`pip install git+https://github.com/aymericderbois/py-mattermost-webhooks-log-handler.git@master`
+`pip install mattermost_handler`
 
 # Configuration
 
